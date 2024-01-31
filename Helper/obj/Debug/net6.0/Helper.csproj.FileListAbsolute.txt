@@ -1,0 +1,17 @@
+E:\Kumaresan\C#\LearningProject\Helper\bin\Debug\net6.0\Helper.deps.json
+E:\Kumaresan\C#\LearningProject\Helper\bin\Debug\net6.0\Helper.dll
+E:\Kumaresan\C#\LearningProject\Helper\bin\Debug\net6.0\Helper.pdb
+E:\Kumaresan\C#\LearningProject\Helper\bin\Debug\net6.0\Entity.dll
+E:\Kumaresan\C#\LearningProject\Helper\bin\Debug\net6.0\Repo.dll
+E:\Kumaresan\C#\LearningProject\Helper\bin\Debug\net6.0\Entity.pdb
+E:\Kumaresan\C#\LearningProject\Helper\bin\Debug\net6.0\Repo.pdb
+E:\Kumaresan\C#\LearningProject\Helper\obj\Debug\net6.0\Helper.csproj.AssemblyReference.cache
+E:\Kumaresan\C#\LearningProject\Helper\obj\Debug\net6.0\Helper.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kumaresan\C#\LearningProject\Helper\obj\Debug\net6.0\Helper.AssemblyInfoInputs.cache
+E:\Kumaresan\C#\LearningProject\Helper\obj\Debug\net6.0\Helper.AssemblyInfo.cs
+E:\Kumaresan\C#\LearningProject\Helper\obj\Debug\net6.0\Helper.csproj.CoreCompileInputs.cache
+E:\Kumaresan\C#\LearningProject\Helper\obj\Debug\net6.0\Helper.csproj.CopyComplete
+E:\Kumaresan\C#\LearningProject\Helper\obj\Debug\net6.0\Helper.dll
+E:\Kumaresan\C#\LearningProject\Helper\obj\Debug\net6.0\refint\Helper.dll
+E:\Kumaresan\C#\LearningProject\Helper\obj\Debug\net6.0\Helper.pdb
+E:\Kumaresan\C#\LearningProject\Helper\obj\Debug\net6.0\ref\Helper.dll
